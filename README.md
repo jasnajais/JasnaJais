@@ -26,11 +26,7 @@ I'm a passionate developer who loves building scalable applications and explorin
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
