@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ Hi, I'm Jasna Jaison 👋
+#  Hi, I'm Jasna Jaison 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%7C+AI%2FML+Enthusiast)](https://git.io/typing-svg)
 
@@ -53,6 +53,6 @@
 
 ![snake gif](https://github.com/JasnaJais/JasnaJais/blob/output/github-snake-dark.svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
 
 </div>
