@@ -2,13 +2,6 @@
   
 #  Hi, I'm Jasna Jaison 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%7C+AI%2FML+Enthusiast)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-*Passionate about building scalable applications and exploring AI/ML*
-
----
 
 ## 💻 Tech Stack ⚡
 
