@@ -91,5 +91,5 @@
 
 
     
-  ![snake gif](https://github.com/Jasna/Jasna/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/JasnaJais/JasnaJais/blob/output/github-snake-dark.svg)
 
