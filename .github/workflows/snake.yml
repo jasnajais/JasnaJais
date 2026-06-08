@@ -1,97 +1,52 @@
-name: GitHub Snake Game
+## Hi, I’m Jasna Jaison 👋
 
+Full-Stack Engineer building real-time and end-to-end web apps with **React**, **Node.js**, and **Python**.
 
+- 🔭 Currently working on: real-time apps, MERN projects, and AI-assisted products
+- 💡 Interested in: scalable backend APIs, clean UI/UX, and production-ready systems
+- 📍 Location/Timezone: _Add yours_
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/jasna-jaison-46a98b2aa) · [Portfolio](jasnajaison.me) ·
 
-on:
+---
 
-  # Schedule the workflow to run daily at midnight UTC
+## Featured Projects
 
-  schedule:
+### RealtimeChat
+A real-time chat app where users can chat randomly with strangers or get matched based on their mood for meaningful conversations.  
+- Tech: JavaScript, Node.js, Socket.io, MongoDB (update if needed)
+- Repo: https://github.com/jasnajais/RealtimeChat
+- Live demo: _add link (https://realtime-chat-w7a3.vercel.app/)_
 
-    - cron: "0 0 * * *"
+### Hostel Complaint Management
+A full-stack MERN application to streamline hostel complaint handling with tracking, uploads, status updates, and admin dashboards.  
+- Tech: JavaScript, React, Node.js, MongoDB (update if needed)
+- Repo: https://github.com/jasnajais/Hostel-Complaint-Management
+- Live demo: _add link (optional)_
 
+### Loan Assistant AI
+An AI loan assistant that checks eligibility and provides guidance (based on your description).  
+- Tech: _Python / ML stack here_ (update)
+- Repo: https://github.com/jasnajais/loan_assistantAi
+- Demo: _add link (optional)_
 
+---
 
-  # Allow manual triggering of the workflow
+## Tech Stack
 
-  workflow_dispatch:
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Python**: APIs, automation, ML (update)
+- **Tools**: Git, GitHub, Postman (update)
 
+---
 
+## What I value
 
-  # Trigger the workflow on pushes to the main branch
+- Writing code that’s **readable**, **testable**, and **easy to maintain**
+- Shipping features with solid UX and clear documentation
+- Learning fast and improving through feedback
 
-  push:
+---
 
-    branches:
-
-      - main
-
-
-
-jobs:
-
-  generate:
-
-    runs-on: ubuntu-latest
-
-    timeout-minutes: 10
-
-
-
-    steps:
-
-      # Step 1: Checkout the repository
-
-      - name: Checkout Repository
-
-        uses: actions/checkout@v3
-
-
-
-      # Step 2: Generate the snake animations
-
-      - name: Generate GitHub Contributions Snake Animations
-
-        uses: Platane/snk@v3
-
-        with:
-
-          # GitHub username to generate the animation for
-
-          github_user_name: ${{ github.repository_owner }}
-
-
-
-          # Define the output files and their configurations
-
-          outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-        env:
-
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-
-
-      # Step 3: Deploy the generated files to the 'output' branch
-
-      - name: Deploy to Output Branch
-
-        uses: peaceiris/actions-gh-pages@v3
-
-        with:
-
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-          publish_dir: ./dist
-
-          publish_branch: output
-
-          # Optionally, you can set a custom commit message
-
-          commit_message: "Update snake animation [skip ci]"
+⭐ If you like my work, consider starring a repo — it helps a lot.
