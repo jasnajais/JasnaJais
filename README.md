@@ -4,7 +4,7 @@ Full-Stack Engineer building real-time and end-to-end web apps with **React**, *
 
 - 🔭 Currently working on: real-time apps, MERN projects, and AI-assisted products
 - 💡 Interested in: scalable backend APIs, clean UI/UX, and production-ready systems
-- 📫 Reach me: [LinkedIn](www.linkedin.com/in/jasna-jaison-46a98b2aa) · [Portfolio](jasnajaison.me) 
+- 📫 Reach me: [LinkedIn](www.linkedin.com/in/jasna-jaison-46a98b2aa) · [Portfolio](jasnajaison.me)
 
 ---
 
