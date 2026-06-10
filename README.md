@@ -15,4 +15,4 @@ Full-Stack Engineer building real-time and end-to-end web apps with **React**, *
 
 ---
 
-⭐ If you like my work, consider starring a repo — it helps a lot.
+⭐ If you like my work, consider starring a repo — it helps a lot. 
