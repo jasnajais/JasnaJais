@@ -58,23 +58,6 @@
 
 ---
 
-### 📈 GitHub Statistics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=jasnajaison&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jasna's GitHub Stats" width="400"/>
-      </td>
-      <td align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasnajaison&theme=tokyonight&hide_border=true" alt="Jasna's Streak Stats" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 📬 Let's Connect!
 
 <div align="center">
