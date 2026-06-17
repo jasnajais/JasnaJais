@@ -18,17 +18,6 @@
 - 📦 **MERN Projects:** Scaling full-stack JavaScript architectures with clean patterns.
 - 🤖 **AI-Assisted Products:** Integrating smart LLM features into production pipelines.
 
-### 📬 Let's Connect!
-
-<div align="center">
-  <a href="www.linkedin.com/in/jasna-jaison-46a98b2aa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://jasnajaison.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-
 <p align="center">
   <sub>⭐ If you like my work, consider starring a repository — it helps a lot!</sub>
 </p>
