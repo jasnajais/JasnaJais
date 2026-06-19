@@ -12,12 +12,5 @@
 </p>
 
 ---
-
-### 🔭 Currently Working On
-- ⚡ **Real-Time Applications:** Utilizing WebSockets and Redis for instant communications and synchronization.
-- 📦 **MERN Projects:** Scaling full-stack JavaScript architectures with clean patterns.
-- 🤖 **AI-Assisted Products:** Integrating smart LLM features into production pipelines.
-
-<p align="center">
   <sub>⭐ If you like my work, consider starring a repository — it helps a lot!</sub>
 </p>
