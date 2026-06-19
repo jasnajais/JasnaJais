@@ -1,35 +1,13 @@
+<h1 align="center">Hi 👋, I'm Jasna</h1>
+
 <p align="center">
-  <a href="https://github.com">
-    <img src="https://demolab.com+👋;Software+Engineer;MERN+Stack+Developer;Building+Real-Time+Web+Apps" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Cool+Web+Apps;Always+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Node" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,docker,git" />
 </p>
-
----
-
-### 🚀 Tech Stack
-
-```javascript
-const jasna = {
-  code: ["React", "Node.js", "Python", "MERN"],
-  tools: ["Docker", "Git", "REST APIs"],
-  focus: "Scalable Backend & Clean UI/UX"
-};
-```
-
----
-
-### 📊 Activity
 
 <p align="center">
-  <img src="https://vercel.app" width="100%" alt="Activity Graph" />
-</p>
-
-  <sub>⭐ If you like my work, consider starring a repository — it helps a lot!</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
