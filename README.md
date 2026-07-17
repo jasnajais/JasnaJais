@@ -28,6 +28,6 @@ Software Engineer focused on building clean, scalable, and user-friendly web app
 
 <div align="center">
 
-⭐️ Open to Software Engineering opportunities
+⭐️ 
 
 </div>
