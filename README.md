@@ -10,5 +10,4 @@ Clean, scalable, and user-friendly web apps.
 
 </div>
 
-## Tech
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express` `PostgreSQL` `MongoDB` `Docker` `Git`
+
